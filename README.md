@@ -1,4 +1,4 @@
-<img width="1000" src="https://github.com/user-attachments/assets/6a6b7f80-0775-4be0-a8f5-24f5bfa992f0" alt="Image Description">
+<img width="800" src="https://github.com/user-attachments/assets/6a6b7f80-0775-4be0-a8f5-24f5bfa992f0" alt="Image Description">
 
 <!--
 **Yunzoo01/Yunzoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
