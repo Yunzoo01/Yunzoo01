@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&text=Hello%World!&animation=fadeIn&color=gradient&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Hello%World!&animation=fadeIn&color=gradient)
 <!--
 **Yunzoo01/Yunzoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=soft&animation=fadeIn&color=gradient&section=footer&reversal=true)
