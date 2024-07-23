@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=shark&text=Hello!%20%20I'm%20Yun!&animation=fadeIn&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=shark&text=Hello!%20%20I'm%20Yun!&animation=fadeIn&color=0:dcb5ff,100:b5cbff)
 
 <!--
 **Yunzoo01/Yunzoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=shark&animation=fadeIn&color=gradient&section=footer&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=shark&animation=fadeIn&color=0:dcb5ff,100:b5cbff&section=footer&reversal=true)
