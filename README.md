@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&text=Hello%World!&animation=fadeIn&color=gradient&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Hello%World!&animation=fadeIn&color=gradient&theme=tokyonight)
 <!--
 **Yunzoo01/Yunzoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
