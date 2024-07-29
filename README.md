@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-fd85d7?style=flat-square&logo=IntelliJ&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intelli%20J-fd85d7?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
