@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/openCV-11557c.svg?style=flat-square&logo=openCV&logoColor=white" />
   <img src="https://img.shields.io/badge/keras-e56f6f.svg?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/tensorflow-e6975a.svg?style=flat-square&logo=tensorflow&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75.svg?style=flat-square&logo=Apache%20Tomcat&logoColor=black" />
 
 </div>
 <br>
@@ -51,6 +53,19 @@
 
 <h3 align="center">🌱 Contact 🌱</h3>
 <div align="center">
+  <a href="https://www.linkedin.com/in/yunju-jo-849516317/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+</a>
+
+<a href="https://www.instagram.com/yunzooooo" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
+</a>
+
+<a href="mailto:papillon8191@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
+
+	
   
 </div>
 
