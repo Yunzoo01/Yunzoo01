@@ -11,7 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
@@ -29,10 +29,11 @@
 
 <h3 align="center">🌱 Studying 🌱</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   
 </div>
 <br>
@@ -53,9 +54,9 @@
 
 <h3 align="center">🌱 Contact 🌱</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/yunju-jo-849516317/" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/yunju-jo-849516317/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
-</a>
+</a> -->
 
 <a href="https://www.instagram.com/yunzooooo" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
@@ -63,6 +64,10 @@
 
 <a href="mailto:papillon8191@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
+
+<a href="https://velog.io/@yunzoo01/posts" target="_blank">
+ <img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white" alt="Velog Badge"/>
 </a>
 
 	
